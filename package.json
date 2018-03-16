@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-benoitarguel",
+  "version": "0.1.0",
+  "description": "eslint configuration benoit arguel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArguelBenoit/eslint-config-benoitarguel.git"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "eslint",
+    "benoit",
+    "arguel"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Benoit Arguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArguelBenoit/eslint-config-benoitarguel/issues"
+  },
+  "homepage": "https://github.com/ArguelBenoit/eslint-config-benoitarguel#readme"
+}
