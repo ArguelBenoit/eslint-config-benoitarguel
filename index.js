@@ -9,7 +9,10 @@ module.exports = {
     "commonjs": true
   },
   "ecmaFeatures": { "jsx": true },
-  "plugins": [ "react" ],
+  "plugins": [
+    "react",
+    "vue/essential"
+  ],
   "rules": {
     "comma-dangle": 1,
     "jsx-quotes": 1,
